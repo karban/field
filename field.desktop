@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Field
+Comment=bla
+Exec=field
+Icon=field
+Categories=Education;Science;Math;
+MimeType=application/x-field
